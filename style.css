@@ -1,0 +1,53 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+button
+{
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  border-radius: 10px;
+  line-height: 30px;
+}
+#room_1
+{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+#room_2
+{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+#room_3
+{
+  padding-left: 230px;
+  padding-right: 230px;
+}
+#room_4
+{
+  padding-left: 220px;
+  padding-right: 220px;
+}
+#room_5
+{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+#back
+{
+  background-color: black;
+  color: white;
+}
+canvas
+{
+  margin-top: 80px;
+}
