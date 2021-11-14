@@ -36,7 +36,7 @@ function gotResults(error, results)
         objects = results;
     }
 }
-/*function draw()
+function draw()
 {
     image(img, 0, 0, 640, 420);
     fill("#FF0000");
@@ -50,8 +50,8 @@ function gotResults(error, results)
     noFill();
     stroke("#FF0000");
     rect(230, 10, 320, 180);
-}*/
-function draw()
+}
+/*function draw()
 {
     image(img, 0, 0, 640, 420);
     
@@ -69,4 +69,4 @@ function draw()
       }
     }
    
-}
+}*/

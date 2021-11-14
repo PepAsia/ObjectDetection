@@ -37,17 +37,17 @@ function gotResults(error, results)
     }
 }
 //132 drawing rectangle without getting output from cocossd
-/*function draw()
+function draw()
 {
     image(img, 0, 0, 640, 420);
     fill("#FF0000");
-    text("bed", 50, 115);
+    text("", 50, 115);
     noFill();
     stroke("#FF0000");
     rect(200, 130, 400, 280);  
-}*/
+}
 
-function draw()
+/*function draw()
 {
     image(img, 0, 0, 640, 420);
     
@@ -65,4 +65,4 @@ function draw()
       }
     }
    
-}
+}*/
